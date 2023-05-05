@@ -1,0 +1,125 @@
+ {/* <TextField
+                    size="small" 
+                    label='First Name'
+                    variant='filled' 
+                    name="firstname"
+                    value={firstName}
+                    onChange={e => setFirstName(e.target.value)}
+                    rules={{
+                      required:"This field is required"
+                    }}
+                        // {...register("firstname", {required: 'This field is required'})}
+                        error={errors.firstname !== undefined}
+                        helperText={errors.firstname?.message}
+ />  */}
+
+
+
+  {/* <TextField   
+                     size="small" 
+                     label='Last Name' 
+                     variant='filled' 
+                     name='lastname'
+                     value={lastName}
+                     onChange={e=> setLastName(e.target.value)}
+                    //  {...register("lastname", {required: 'This field is required', maxLength: 80})}
+                    // error={errors.lastname !== undefined}
+                    //  helperText={errors.lastname?.message}
+                     /> 
+*/}
+
+
+{/* <TextField 
+                    label='Email' 
+                    variant='filled'  
+                    name='email'
+                    value={email}
+                    onChange={e=> setEmail(e.target.value)}
+                    // {...register("email", {required: "This field is required", maxLength: 80})}
+                    //  error={errors.email !== undefined}
+                    //  helperText={errors.email?.message}
+                    /> 
+*/}
+
+
+{/* <TextField  
+size="small" 
+label='Mobile' 
+variant='filled' 
+name='mobile'
+value={mobile}
+onChange={e=> setMobile(e.target.value)}
+ // {...register("mobile", {required: "This field is required", maxLength: 80})}
+ // error={errors.mobile !== undefined}
+ // helperText={errors.mobile?.message}
+/> */}
+
+
+{/* <TextField   
+size="small" 
+label='Address' 
+variant='filled' 
+name='address'
+value={address}
+onChange={e=> setAddress(e.target.value)}
+//  {...register("address", {required: 'This field is required', maxLength: 80})}
+//  error={errors.address !== undefined}
+//  helperText={errors.address?.message}
+sx={{ width:'484px'}}
+/> */}
+
+
+{/* <TextField  
+                    size="small" 
+                    label='City' 
+                    variant='filled' 
+                    name='city'
+                    value={city}
+                    onChange={e=> setCIty(e.target.value)}
+                    //  {...register("city", {required: "This field is required", maxLength: 80})}
+                    //  error={errors.city !== undefined}
+                    //  helperText={errors.city?.message}
+                    /> 
+*/}
+
+
+{/* <TextField  
+size="small" 
+label='state' 
+variant='filled'
+name='state'
+value={state}
+onChange={e=> setState(e.target.value)}
+//  {...register("state", {required: "This field is required", maxLength: 80})}
+//   error={errors.state !== undefined}
+//   helperText={errors.state?.message}
+/> */}
+
+
+{/* <TextField  
+size="small" 
+label='Postal code' 
+variant='filled' 
+name='postalcode'
+value={posatlCode}
+onChange={e=> setPostalCode(e.target.value)}
+//  {...register("postalcode", {required: 'This field is required', maxLength: 80})}
+//  error={errors.postalcode !== undefined}
+//  helperText={errors.postalcode?.message}
+/> */}
+
+
+{/* <TextField   
+label="Objective"
+multiline
+maxRows={7}
+name='objective'
+value={objective}
+onChange={e=> setObjective(e.target.value)}
+//  {...register("objective", {required: "This field is required", maxLength: 80})}
+//  error={errors.objective !== undefined}
+//  helperText={errors.objective?.message}
+sx={{
+  width: '550px',
+}}
+/> */}
