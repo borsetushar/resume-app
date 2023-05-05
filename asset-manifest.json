@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resume-app/static/css/main.e5ec8c14.css",
+    "main.js": "/resume-app/static/js/main.620fbff4.js",
+    "static/js/703.c7102ebd.chunk.js": "/resume-app/static/js/703.c7102ebd.chunk.js",
+    "static/js/598.9c0a9f54.chunk.js": "/resume-app/static/js/598.9c0a9f54.chunk.js",
+    "static/media/Tempp2.png": "/resume-app/static/media/Tempp2.0044f0d83e096b2f9c40.png",
+    "static/media/Tempp1.png": "/resume-app/static/media/Tempp1.8eb27c981990364c91a1.png",
+    "static/media/Tempp3.png": "/resume-app/static/media/Tempp3.d30cd8e872eaadc8428c.png",
+    "static/media/Tempp4.png": "/resume-app/static/media/Tempp4.2e410c294b6f194b770f.png",
+    "static/media/Aboutus.png": "/resume-app/static/media/Aboutus.cf907849e58d5aeb1e8b.png",
+    "index.html": "/resume-app/index.html",
+    "main.e5ec8c14.css.map": "/resume-app/static/css/main.e5ec8c14.css.map",
+    "main.620fbff4.js.map": "/resume-app/static/js/main.620fbff4.js.map",
+    "703.c7102ebd.chunk.js.map": "/resume-app/static/js/703.c7102ebd.chunk.js.map",
+    "598.9c0a9f54.chunk.js.map": "/resume-app/static/js/598.9c0a9f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ec8c14.css",
+    "static/js/main.620fbff4.js"
+  ]
+}
