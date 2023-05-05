@@ -9,7 +9,7 @@ import store from './State/Store/store';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 console.log(store.getState());
 root.render(  
-    <BrowserRouter>
+    <BrowserRouter basename='/resume-app'>
      <Provider store={store}>
          <App />
      </Provider>   
