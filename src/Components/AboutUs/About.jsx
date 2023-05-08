@@ -83,19 +83,15 @@ function About() {
                     py: { xs: 2, md: 4 },
                   }}
                 >
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum.The purpose of lorem ipsum is to
-                create a natural looking block of text (sentence, paragraph,
-                page, etc.) that doesn't distract from the layout. A practice
-                not without controversy, laying out pages with meaningless
-                filler text can be very useful when the focus is meant to be on
-                design, not content.
+                  Welcome to our online resume builder! We're a team of experienced developers who are passionate 
+                  about helping job seekers create professional and effective resumes. Our platform provides a user-friendly 
+                  interface that allows you to easily create and customize your resume to showcase your skills, experience, and achievements.
+                  We understand that the job market can be tough, and we're here to help you stand out from the competition. 
+                  Our resume builder features modern templates, customizable designs, and helpful tips and suggestions to help
+                  you create a resume that will impress potential employers. Plus, our platform is completely free to use!
+                  Whether you're a recent graduate, a seasoned professional, or just looking to switch careers, our resume builder can help you 
+                  create a standout resume that highlights your strengths and accomplishments. Thank you for choosing our platform to help you 
+                  achieve your career goals.
                 </Typography>
               </Box>
               <Box
